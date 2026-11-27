@@ -37,7 +37,7 @@ Desarrollo sistemas y sitios web pensados para el uso diario: para vecinos, empl
 ## 🛠️ Proyectos destacados
 
 ### 💼 Portal de Empleo de Laboulaye
-Portal municipal que conecta a vecinos que buscan trabajo con empresas de la ciudad.
+Portal municipal que conecta a vecinos que buscan trabajo con empresas de la ciudad. Disponible en [empleo.laboulaye.gob.ar](https://empleo.laboulaye.gob.ar).
 
 - Registro de postulantes y bolsa de trabajo
 - Panel de administración para la Municipalidad
